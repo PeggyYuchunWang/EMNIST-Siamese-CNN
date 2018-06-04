@@ -1,0 +1,5 @@
+# EMNIST-Siamese-CNN
+
+Trains a Siamese Convolutional Neural Network on the Extended MNIST dataset.
+Reaches ~97% accuracy for determining matches between characters in 5 epochs.
+Based off work from github user mmmikael: https://gist.github.com/mmmikael/0a3d4fae965bdbec1f9d
